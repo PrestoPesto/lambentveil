@@ -1,0 +1,14 @@
+300,300,2920
+|
+holdpoint:1
+|
+sndvis:DistortionArps
+size:.7,1
+alpha:.7
+rgb:0,1,.7
+|
+img:listDivider
+rect:0,0,1,1
+alpha:.4
+rot:90
+rgb:0,1,.7

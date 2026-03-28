@@ -1,0 +1,97 @@
+PROTECTED
+Parent: AtC_Default_vanilla
+Type: AboveCloudsView
+OffsetX: 0
+OffsetY: 0
+---------------
+startAltitude: 20000
+endAltitude: 31400
+cloudsStartDepth: 30
+cloudsEndDepth: 500
+distantCloudsEndDepth: 2000
+cloudsCount: 0
+curveCloudDepth: 1
+distantCloudsCount: 0
+overrideYStart: -1600
+overrideYEnd: 0
+daySky: bu_Sky
+duskSky: bu_DuskSky
+nightSky: bu_NightSky
+atmosphereColor: 1e222c
+
+Smoke: 0, 0, 7, 2.5, 0.1, 0.8, false : spriteName|clouds3
+Smoke: 0, 0, 7, 2.5, 0.1, 0.8, false : spriteName|clouds3
+FlyingCloud: 0, 0, 355, 0.35, 0.5, 0 : spriteName|clouds3
+
+REMOVE_DistantBuilding: AtC_Structure1, -520, -85, 160, -20
+REMOVE_DistantLightning: AtC_Light1, -520, -119, 160, 55
+REMOVE_DistantBuilding: AtC_Structure2, 88, -37, 350, 0
+REMOVE_DistantLightning: AtC_Light2, 88, -53, 350, 250
+REMOVE_DistantBuilding: AtC_Structure3, -316, -24, 600, -100
+REMOVE_DistantLightning: AtC_Light3, -316, -32, 600, 80
+REMOVE_DistantBuilding: AtC_Structure4, -648, -21, 700, -200
+REMOVE_DistantBuilding: AtC_Structure5, 156, -22, 800, -350
+REMOVE_DistantBuilding: AtC_Structure6, -242, -20, 850, -350
+REMOVE_DistantBuilding: AtC_Spire1, -587, -134, 80, -60
+REMOVE_DistantBuilding: AtC_Spire2, -653, -57, 100, 10
+REMOVE_DistantBuilding: AtC_Spire3, 0, -46, 155, 0
+REMOVE_DistantBuilding: AtC_Spire4, -224, -20, 190, 80
+REMOVE_DistantBuilding: AtC_Spire5, -276, -24, 360, -100
+REMOVE_DistantBuilding: AtC_Spire6, -39, -33, 280, 0
+REMOVE_DistantBuilding: AtC_Spire7, 155, -7, 370, -85
+REMOVE_DistantBuilding: AtC_Spire8, -380, 3, 380, -50
+REMOVE_DistantBuilding: AtC_Spire9, -207, -1, 395, -50
+
+
+
+DistantBuilding: bu_building06, -3000, -800, 50, 60 : scale|0.5
+DistantBuilding: bu_building07, -2600, -850, 50, 60 : scale|0.5
+DistantBuilding: bu_building02, -2200, -750, 50, 60: scale|0.5
+DistantBuilding: bu_building03, -1800, -800, 50, 60 : scale:0.5
+DistantBuilding: bu_building02, -1400, -800, 50, 60 : scale|0.5
+DistantBuilding: bu_building01, -1000, -850, 50, 60 : scale|0.5
+DistantBuilding: bu_building03, -600, -750, 50, 60 : scale|0.5
+DistantBuilding: bu_building04, -200, -800, 50, 60 : scale|0.5
+DistantBuilding: bu_building05, 200, -800, 50, 60 : scale|0.5
+DistantBuilding: bu_building06, 600, -750, 50, 60 : scale|0.5
+DistantBuilding: bu_building07, 1000, -800, 50, 60 : scale|0.5
+DistantBuilding: bu_building02, 1400, -800, 50, 60 : scale|0.5
+DistantBuilding: bu_building06, 3000, -800, 50, 60 : scale|0.5
+DistantBuilding: bu_building07, 2600, -850, 50, 60 : scale|0.5
+DistantBuilding: bu_building02, 2200, -750, 50, 60 : scale|0.5
+DistantBuilding: bu_building03, 1800, -800, 50, 60 : scale|0.5
+
+
+DistantBuilding: bu_building02, -2400, -650, 100, 200 : scale|0.45
+DistantBuilding: bu_building06, -2000, -700, 100, 200 : scale|0.45
+DistantBuilding: bu_building07, -1600, -750, 100, 200 : scale|0.45
+DistantBuilding: bu_building01, -1200, -700, 100, 200 : scale|0.45
+DistantBuilding: bu_building02, -800, -750, 100, 200 : scale|0.45
+DistantBuilding: bu_building02, -400, -650, 100, 200 : scale|0.45
+DistantBuilding: bu_building03, 0, -700, 100, 200 : scale|0.45
+DistantBuilding: bu_building04, 400, -700, 100, 200 : scale|0.45
+DistantBuilding: bu_building05, 800, -650, 100, 200 : scale|0.45
+DistantBuilding: bu_building06, 1200, -700, 100, 200 : scale|0.45
+DistantBuilding: bu_building07, 1600, -750, 100, 200 : scale|0.45
+DistantBuilding: bu_building02, 2000, -750, 100, 200 : scale|0.45
+
+
+DistantBuilding: bu_building04, -1400, -500, 200, 300 : scale|0.4
+DistantBuilding: bu_building03, -1000, -500, 200, 300 : scale|0.4
+DistantBuilding: bu_building07, -600, -550, 200, 300 : scale|0.4
+DistantBuilding: bu_building06, -200, -450, 200, 300 : scale|0.4
+DistantBuilding: bu_building05, 200, -500, 200, 300 : scale|0.4
+DistantBuilding: bu_building04, 600, -500, 200, 300 : scale|0.4
+DistantBuilding: bu_building03, 1000, -450, 200, 300 : scale|0.4
+DistantBuilding: bu_building02, 1400, -500, 200, 300 : scale|0.4
+DistantBuilding: bu_building01, 1800, -550, 200, 300 : scale|0.4
+
+
+DistantBuilding: bu_building01, -1400, -400, 300, 600 : scale|0.3
+DistantBuilding: bu_building02, -1000, -450, 300, 600 : scale|0.3
+DistantBuilding: bu_building04, -600, -350, 300, 600 : scale|0.3
+DistantBuilding: bu_building05, -200, -400, 300, 600 : scale|0.3
+DistantBuilding: bu_building06, 200, -400, 300, 600 : scale|0.3
+DistantBuilding: bu_building07, 600, -350, 300, 600 : scale|0.3
+DistantBuilding: bu_building03, 1000, -400, 300, 600 : scale|0.3
+DistantBuilding: bu_building02, 1400, -400, 300, 600 : scale|0.3

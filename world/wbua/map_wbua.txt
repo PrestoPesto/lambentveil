@@ -1,0 +1,71 @@
+WBUA_inside02: -33><-277.5><45.2462505193><-233.55020597><1><Lambent Veil
+WBUA_inside01: -447><-235.5><-243.388285547><-319.818728353><1><Lambent Veil
+WBUA_alley: -576><-280.5><-370.97371665><-268.924494551><0><Lambent Veil
+WBUA_S02: 957><-214.5><1004.62292139><-268.658845732><1><
+WBUA_lot02: 111><-265.5><225.687119327><-248.167083523><0><Lambent Veil
+WBUA_lot01: -249><-292.5><409.891841878><-288.64855959><0><Lambent Veil
+WBUA_S01: -600><-85.5><-510.548763953><-110.992611777><1><
+WBUA_inside08: -390><-70.5><-150.944465867><-184.784368373><1><Lambent Veil
+WBUA_lot09: -126><-49.5><221.880192388><-177.412115825><2><Lambent Veil
+WBUA_inside06: 1134><-25.5><1108.27987304><-120.350528322><1><Lambent Veil
+WBUA_vent03: 1029><235.5><958.027488156><116.776792425><1><Lambent Veil
+WBUA_lot06: 1353><-39><1365.61404488><-82.7598215493><0><Lambent Veil
+WBUA_roof01: 783><232.5><770.999751415><-28.8866783216><2><Lambent Veil
+WBUA_lot05: 987><-64.5><980.15916669><-133.369772802><0><Lambent Veil
+WBUA_vent02: 1170><198><1128.08540441><79.0818715969><1><Lambent Veil
+WBUA_coast: 1317><232.5><1277.55549447><199.336273345><2><Lambent Veil
+WBUA_inside04: 672><-208.5><777.894083002><-229.848662861><1><Lambent Veil
+WBUA_vent01: 1164><82.5><1219.48073148><-5.27929247726><1><Lambent Veil
+WBUA_lot07: 888><84><808.709783254><33.9372803147><2><Lambent Veil
+WBUA_lot04: 843><-139.5><775.565441546><-304.361753154><0><Lambent Veil
+WBUA_lot03: 396><-244.5><521.414507025><-241.085478465><0><Lambent Veil
+WBUA_inside09: 60><1.5><169.595303415><-18.5781369998><1><Lambent Veil
+WBUA_lot10: 417><-154.5><545.666143887><-93.856629469><2><Lambent Veil
+WBUA_inside05: 684><-91.5><744.515081865><-134.888837483><1><Lambent Veil
+WBUA_inside10: 177><-31.5><330.182741656><-130.844565058><1><
+WBUA_inside07: 195><-145.5><407.889003981><59.1653063803><1><
+WBUA_S03: 204><118.5><252.984357898><109.409689713><1><
+WBUA_inside11: 591><226.5><671.270346649><183.61591694><1><
+WBUA_roof02: 384><70.5><578.793846964><-22.7755686265><2><
+WBUA_inside03: 51><-148.5><300><-340.5><1><Lambent Veil
+OFFSCREENDENWBUA: 258><448.5><-45><148.5><0><
+WBUA_roof03: 240><256.5><716.519850885><128.632008697><0><
+WBUA_vent04: 630><88.5><549.469285172><44.0621989457><1><Lambent Veil
+WBUA_S04: 649.5><147><710.31160844><156.928914058><1><
+Connection: WBUA_inside02,WBUA_lot01,4,18,100,26,2,0
+Connection: WBUA_inside02,WBUA_lot02,44,17,3,13,0,2
+Connection: WBUA_inside01,WBUA_inside08,21,31,15,4,1,3
+Connection: WBUA_inside01,WBUA_lot01,38,12,4,25,0,2
+Connection: WBUA_inside01,WBUA_alley,9,5,44,15,2,0
+Connection: WBUA_S02,WBUA_lot04,10,14,41,9,2,0
+Connection: WBUA_lot02,WBUA_inside03,7,31,42,13,2,0
+Connection: WBUA_lot02,WBUA_lot03,45,24,5,21,0,2
+Connection: WBUA_S01,WBUA_inside08,33,17,11,11,0,2
+Connection: WBUA_inside08,WBUA_lot09,89,21,5,29,0,2
+Connection: WBUA_lot09,WBUA_inside09,90,56,8,21,0,2
+Connection: WBUA_lot09,WBUA_inside03,96,10,7,47,0,2
+Connection: WBUA_inside06,WBUA_vent01,35,30,78,7,1,3
+Connection: WBUA_inside06,WBUA_lot05,6,13,45,27,2,0
+Connection: WBUA_inside06,WBUA_lot06,41,13,5,13,0,2
+Connection: WBUA_vent03,WBUA_roof01,4,16,96,18,2,0
+Connection: WBUA_vent03,WBUA_vent02,43,16,7,30,0,2
+Connection: WBUA_roof01,WBUA_inside11,9,20,33,22,2,0
+Connection: WBUA_lot05,WBUA_lot04,4,13,42,57,2,0
+Connection: WBUA_vent02,WBUA_coast,41,23,2,11,0,2
+Connection: WBUA_vent02,WBUA_vent01,30,2,78,28,3,1
+Connection: WBUA_inside04,WBUA_inside05,36,31,38,2,1,3
+Connection: WBUA_inside04,WBUA_lot03,6,13,95,22,2,0
+Connection: WBUA_inside04,WBUA_lot04,43,11,6,12,0,2
+Connection: WBUA_vent01,WBUA_lot07,16,16,94,10,2,0
+Connection: WBUA_lot07,WBUA_vent04,14,20,91,17,2,0
+Connection: WBUA_vent04,WBUA_roof02,10,23,87,51,2,0
+Connection: WBUA_vent04,WBUA_inside05,39,3,17,32,3,1
+Connection: WBUA_inside09,WBUA_inside10,40,21,5,47,0,2
+Connection: WBUA_inside09,WBUA_inside03,26,1,20,68,3,1
+Connection: WBUA_lot10,WBUA_inside07,9,16,28,7,2,0
+Connection: WBUA_lot10,WBUA_inside05,132,15,6,6,0,2
+Connection: WBUA_inside10,WBUA_roof02,42,47,7,16,0,2
+Connection: WBUA_inside10,WBUA_inside07,25,6,14,25,3,1
+Connection: WBUA_roof02,WBUA_S03,11,53,19,5,2,0
+Connection: WBUA_roof03,WBUA_inside11,196,15,8,5,0,2
+Connection: WBUA_S04,WBUA_inside11,12,16,35,5,1,0

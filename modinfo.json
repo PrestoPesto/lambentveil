@@ -1,0 +1,10 @@
+{
+	"id": "presto.lambent",
+	"version": "0.1.0",
+	"name": "Lambent Veil",
+	"authors": "PrestoPesto",
+	"description": "A glowing new region for the Watcher",
+	"requirements": ["watcher", "crs", "regionkit", "ludocrypt.betterdecals"],
+	"requirements_names": ["The Watcher", "Custom Regions Support", "RegionKit", "BetterDecals"],
+	"checksum_override_version": true
+}

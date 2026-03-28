@@ -1,0 +1,11 @@
+Template: NONE
+Clouds: 0.363462
+Grime: 0
+Palette: 4590
+EffectColorA: 19
+TerrainDepth: 0.4519185
+TerrainPalette: badlands_2
+Effects: ModifyEffectColorA-0.9357222,0.5,0.5-20-20, LightBurn-0.09279914-15.77084-120.3552, 
+AmbientSounds: OMNI><AM_IND-Factory01.ogg><719.3385><218.914><0.3221356><1, SPOT><AM_IND-50hz.ogg><561.3095><79.36235><0.314402><1><311.3532><434.3957><-35.35534><-35.35534><0><0.1, SPOT><AM_IND-50hz.ogg><781.9403><64.19128><0.3376014><1><312.8549><555.1132><-35.35534><-35.35534><0><0.1, SPOT><AM_IND-50hz.ogg><338.4788><66.084><0.3221356><1><615.0018><403.3309><-35.35534><-35.35534><0><0.1, SPOT><AM_IND-50hz.ogg><136.0691><59.90973><0.3144021><1><715.6733><636.918><-35.35534><-35.35534><0><0.1, 
+BackgroundOffset: 0.006556511,-0.01341105
+BackgroundType: lambentcity

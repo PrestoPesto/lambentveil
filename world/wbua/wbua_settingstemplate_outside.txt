@@ -1,0 +1,6 @@
+Clouds: 0.363462
+Grime: 0
+Palette: 4590
+EffectColorA: 19
+Effects: ModifyEffectColorA-0.9357222,0.5,0.5-20-20, LightBurn-0.09279914-15.77084-120.3552,
+AmbientSounds: OMNI><AM_IND-Factory01.ogg><719.3385><218.914><0.32><1,

@@ -1,0 +1,41 @@
+CONDITIONAL LINKS
+END CONDITIONAL LINKS
+
+ROOMS
+WBUA_inside02 : WBUA_lot01, WBUA_lot02
+WBUA_inside01 : WBUA_inside08, WBUA_lot01, WBUA_alley
+WBUA_alley : WBUA_inside01
+WBUA_S02 : WBUA_lot04 : SHELTER
+WBUA_lot02 : WBUA_inside03, WBUA_lot03, WBUA_inside02
+WBUA_lot01 : WBUA_inside02, WBUA_inside01
+WBUA_S01 : WBUA_inside08 : SHELTER
+WBUA_inside08 : WBUA_lot09, WBUA_S01, WBUA_inside01
+WBUA_lot09 : DISCONNECTED, WBUA_inside09, WBUA_inside08, WBUA_inside03
+WBUA_inside06 : WBUA_vent01, WBUA_lot05, WBUA_lot06
+WBUA_vent03 : WBUA_roof01, WBUA_vent02
+WBUA_lot06 : WBUA_inside06
+WBUA_roof01 : WBUA_inside11, WBUA_vent03
+WBUA_lot05 : WBUA_inside06, WBUA_lot04
+WBUA_vent02 : WBUA_vent03, WBUA_coast, WBUA_vent01
+WBUA_coast : WBUA_vent02
+WBUA_inside04 : WBUA_inside05, WBUA_lot03, WBUA_lot04
+WBUA_vent01 : WBUA_vent02, WBUA_lot07, WBUA_inside06
+WBUA_lot07 : WBUA_vent04, WBUA_vent01
+WBUA_lot04 : WBUA_lot05, WBUA_inside04, WBUA_S02
+WBUA_lot03 : WBUA_inside04, WBUA_lot02
+WBUA_inside09 : DISCONNECTED, WBUA_lot09, WBUA_inside10, WBUA_inside03
+WBUA_lot10 : WBUA_inside07, WBUA_inside05
+WBUA_inside05 : WBUA_vent04, WBUA_lot10, WBUA_inside04
+WBUA_inside10 : WBUA_inside09, WBUA_roof02, WBUA_inside07
+WBUA_inside07 : WBUA_inside10, WBUA_lot10
+WBUA_S03 : WBUA_roof02 : SHELTER
+WBUA_inside11 : DISCONNECTED, WBUA_roof01, WBUA_roof03, WBUA_S04
+WBUA_roof02 : WBUA_S03, WBUA_vent04, WBUA_inside10
+WBUA_inside03 : WBUA_inside09, WBUA_lot09, WBUA_lot02
+WBUA_roof03 : DISCONNECTED, DISCONNECTED, WBUA_inside11
+WBUA_vent04 : WBUA_roof02, WBUA_lot07, WBUA_inside05
+WBUA_S04 : WBUA_inside11 : SHELTER
+END ROOMS
+
+CREATURES
+END CREATURES
