@@ -4,3 +4,7 @@ overseersMax: 0
 playerGuideOverseerSpawnChance: 0
 Room Setting Templates: Outside
 Subregion: Lambent Veil
+Room_Attr: WBUA_lot10: CicadaA-Like,CicadaB-Like,Cicada-Like,
+Room_Attr: WBUA_inside10: Cicada-Avoid,CicadaB-Avoid,CicadaA-Avoid,
+Room_Attr: WBUA_inside05: Cicada-Avoid,CicadaA-Avoid,CicadaB-Avoid,
+Room_Attr: WBUA_lot09: WhiteLizard-Like,CyanLizard-Like,BlueLizard-Like,

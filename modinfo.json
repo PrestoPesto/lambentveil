@@ -1,7 +1,7 @@
 {
 	"id": "presto.lambent",
 	"version": "0.1.0",
-	"name": "Lambent Veil",
+	"name": "Lambent Veil (Bisexual Urban)",
 	"authors": "PrestoPesto",
 	"description": "A glowing new region for the Watcher",
 	"requirements": ["watcher", "crs", "regionkit", "ludocrypt.betterdecals"],
