@@ -1,44 +1,44 @@
 WBUA_S01: -600><-85.5><-660><-109.5><1><
 WBUA_alley: -576><-280.5><-642><-334.5><0><Lambent Veil
 WBUA_inside01: -447><-235.5><-408><-328.5><1><Lambent Veil
-WBUA_lot01: -249><-292.5><-105><-325.5><0><Lambent Veil
 WBUA_lot02: 111><-265.5><534><-355.5><0><Lambent Veil
 WBUA_inside02: -33><-277.5><336><-406.5><1><Lambent Veil
-WBUA_inside04: 672><-208.5><1056><-352.5><1><Lambent Veil
 WBUA_lot04: 843><-139.5><1290><-289.5><0><Lambent Veil
 WBUA_S02: 957><-214.5><1494><-373.5><1><
-WBUA_lot05: 987><-64.5><1518><-223.5><0><Lambent Veil
-WBUA_inside06: 1134><-25.5><1734><-196.5><1><Lambent Veil
-WBUA_lot06: 1353><-39><2007><-177><0><Lambent Veil
 WBUA_inside03: 51><-148.5><264><-217.5><1><Lambent Veil
 WBUA_vent02: 1170><198><1731><99><1><Lambent Veil
-WBUA_coast: 1317><232.5><1950><133.5><2><Lambent Veil
 WBUA_vent03: 1029><235.5><1503><127.5><1><Lambent Veil
 WBUA_S03: 204><118.5><426><127.5><1><
 WBUA_S04: 649.5><147><940.5><129><1><
-WBUA_vent04: 633><64.5><1029><19.5><1><Lambent Veil
-WBUA_inside07: 195><-145.5><432><-196.5><1><Lambent Veil
-WBUA_inside11: 591><226.5><900><238.5><1><Lambent Veil
-WBUA_inside12: -474><91.5><-137.37925282><-27.4832074537><1><Lambent Veil
 WBUA_flag: -97.5><327><-59.8690144737><323.132977998><0><Lambent Veil
-WBUA_inside13: -159><316.5><-151.999511045><98.6820637972><1><Lambent Veil
-WBUA_tract: -1077><325.5><-891.035399139><335.422392853><0><Lambent Veil
-OFFSCREENDENWBUA: 255><685.5><-45><148.5><0><
-WBUA_roof05: -918><283.5><-709.760516167><249.396340267><0><Lambent Veil
-WBUA_lot03: 396><-244.5><810><-346.5><0><Lambent Veil
-WBUA_roof06: 555><442.5><761.029956053><209.354821544><2><Lambent Veil
-WBUA_roof04: -525><295.5><108.214511153><210.731511778><0><Lambent Veil
+WBUA_roof02: 384><70.5><696><37.5><2><Lambent Veil
 WBUA_lot07: 888><84><1329><-51><2><Lambent Veil
-WBUA_inside09: 63><4.5><258><-28.5><1><Lambent Veil
-WBUA_roof03: 234><271.5><462><325.5><0><Lambent Veil
-WBUA_roof01: 792><232.5><1146><130.5><2><Lambent Veil
-WBUA_inside08: -408><-73.5><-393><-193.5><1><Lambent Veil
+WBUA_lot06: 1353><-39><2007><-177><0><Lambent Veil
 WBUA_lot10: 417><-127.5><720><-211.5><2><Lambent Veil
+WBUA_lot01: -249><-292.5><-105><-325.5><0><Lambent Veil
+WBUA_lot03: 396><-244.5><810><-346.5><0><Lambent Veil
+OFFSCREENDENWBUA: 255><685.5><-45><148.5><0><
+WBUA_roof03: 234><271.5><462><325.5><0><Lambent Veil
+WBUA_roof06: 555><442.5><761.029956053><209.354821544><2><Lambent Veil
+WBUA_coast: 1317><232.5><1950><133.5><2><Lambent Veil
+WBUA_tract: -1077><325.5><-891.035399139><335.422392853><0><Lambent Veil
+WBUA_lot09: -147><-40.5><-63><-91.5><2><Lambent Veil
+WBUA_inside09: 63><4.5><258><-28.5><1><Lambent Veil
+WBUA_inside08: -408><-73.5><-393><-193.5><1><Lambent Veil
+WBUA_inside06: 1134><-25.5><1734><-196.5><1><Lambent Veil
+WBUA_lot05: 987><-64.5><1518><-223.5><0><Lambent Veil
+WBUA_inside04: 672><-208.5><1056><-352.5><1><Lambent Veil
+WBUA_roof04: -525><295.5><108.214511153><210.731511778><0><Lambent Veil
+WBUA_inside12: -474><91.5><-137.37925282><-27.4832074537><1><Lambent Veil
+WBUA_inside13: -159><316.5><-151.999511045><98.6820637972><1><Lambent Veil
+WBUA_roof05: -918><283.5><-709.760516167><249.396340267><0><Lambent Veil
+WBUA_vent01: 1164><82.5><1665><-40.5><1><Lambent Veil
+WBUA_vent04: 633><64.5><1029><19.5><1><Lambent Veil
+WBUA_inside11: 591><226.5><900><238.5><1><Lambent Veil
+WBUA_roof01: 792><232.5><1146><130.5><2><Lambent Veil
+WBUA_inside07: 195><-145.5><432><-196.5><1><Lambent Veil
 WBUA_inside10: 177><-16.5><438><-28.5><1><Lambent Veil
 WBUA_inside05: 684><-91.5><1056><-214.5><1><Lambent Veil
-WBUA_roof02: 384><70.5><696><37.5><2><Lambent Veil
-WBUA_lot09: -147><-40.5><-63><-91.5><2><Lambent Veil
-WBUA_vent01: 1164><82.5><1665><-40.5><1><Lambent Veil
 Connection: WBUA_S01,WBUA_inside08,33,17,11,11,0,2
 Connection: WBUA_alley,WBUA_inside01,44,15,9,5,0,2
 Connection: WBUA_inside01,WBUA_inside08,21,31,15,4,1,3
