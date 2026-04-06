@@ -1,0 +1,12 @@
+{
+  "WorkshopID": 3701301104,
+  "LatestGameVersion": "v1.11.7b",
+  "UpdateTitle": true,
+  "UpdateDescription": true,
+  "MarkAsPublic": true,
+  "Tags": [
+    "Arenas",
+    "Regions",
+    "Watcher"
+  ]
+}

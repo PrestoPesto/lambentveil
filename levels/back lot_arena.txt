@@ -1,0 +1,8 @@
+DenGroup - ALL - 4,5,6,7,8
+DenGroup - CENTI - 6,7,8
+
+Creature - GreenLizard - dens:ALL - chance:0.8
+Creature - BlueLizard - dens:ALL - chance:0.6
+Creature - WhiteLizard - dens:ALL - chance:0.7
+
+Creature - Centipede - dens:CENTI - chance:1.0 - amount: 4

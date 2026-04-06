@@ -10,47 +10,47 @@ WBUA_inside02 : WBUA_lot01, WBUA_lot02
 WBUA_lot04 : WBUA_lot05, WBUA_inside04, WBUA_S02
 WBUA_S02 : WBUA_lot04 : SHELTER
 WBUA_inside03 : WBUA_inside09, WBUA_lot09, WBUA_lot02
-WBUA_vent02 : WBUA_vent03, WBUA_coast, WBUA_vent01
 WBUA_vent03 : WBUA_roof01, WBUA_vent02
 WBUA_S03 : WBUA_roof02 : SHELTER
 WBUA_S04 : WBUA_inside11 : SHELTER
-WBUA_flag : WBUA_roof03
 WBUA_roof02 : WBUA_S03, WBUA_vent04, WBUA_inside10
 WBUA_lot07 : WBUA_vent04, WBUA_vent01 : SWARMROOM
 WBUA_lot06 : WBUA_inside06
 WBUA_lot10 : WBUA_inside07, WBUA_inside05
 WBUA_lot01 : WBUA_inside02, WBUA_inside01
 WBUA_lot03 : WBUA_inside04, WBUA_lot02 : SWARMROOM
-WBUA_roof03 : WBUA_flag, WBUA_inside13, WBUA_inside11 : SWARMROOM
-WBUA_roof06 : WBUA_inside11
 WBUA_coast : WBUA_vent02
-WBUA_tract : WBUA_roof05
 WBUA_lot09 : WBUA_inside12, WBUA_inside09, WBUA_inside08, WBUA_inside03
 WBUA_inside09 : DISCONNECTED, WBUA_lot09, WBUA_inside10, WBUA_inside03
 WBUA_inside08 : WBUA_lot09, WBUA_S01, WBUA_inside01
 WBUA_inside06 : WBUA_vent01, WBUA_lot05, WBUA_lot06
 WBUA_lot05 : WBUA_inside06, WBUA_lot04
 WBUA_inside04 : WBUA_inside05, WBUA_lot03, WBUA_lot04
-WBUA_roof04 : WBUA_inside13, WBUA_roof05, WBUA_inside12
-WBUA_inside12 : WBUA_roof04, WBUA_lot09
-WBUA_inside13 : DISCONNECTED, WBUA_roof04, WBUA_roof03
-WBUA_roof05 : WBUA_tract, WBUA_roof04 : SWARMROOM
-WBUA_vent01 : WBUA_vent02, WBUA_lot07, WBUA_inside06
-WBUA_vent04 : WBUA_roof02, WBUA_lot07, WBUA_inside05
-WBUA_inside11 : WBUA_roof06, WBUA_roof01, WBUA_roof03, WBUA_S04
 WBUA_roof01 : WBUA_inside11, WBUA_vent03
 WBUA_inside07 : WBUA_inside10, WBUA_lot10
 WBUA_inside10 : WBUA_inside09, WBUA_roof02, WBUA_inside07
 WBUA_inside05 : WBUA_vent04, WBUA_lot10, WBUA_inside04
+WBUA_flag : WBUA_roof03
+WBUA_roof06 : WBUA_inside11
+WBUA_inside11 : WBUA_roof06, WBUA_roof01, WBUA_roof03, WBUA_S04
+WBUA_inside12 : WBUA_roof04, WBUA_lot09
+WBUA_tract : WBUA_roof05
+WBUA_roof05 : WBUA_tract, WBUA_roof04 : SWARMROOM
+WBUA_inside13 : DISCONNECTED, WBUA_roof04, WBUA_roof03
+WBUA_roof03 : WBUA_flag, WBUA_inside13, WBUA_inside11 : SWARMROOM
+WBUA_vent04 : WBUA_roof02, WBUA_lot07, WBUA_inside05
+WBUA_vent02 : WBUA_vent03, WBUA_coast, WBUA_vent01
+WBUA_vent01 : WBUA_vent02, WBUA_lot07, WBUA_inside06
+WBUA_roof04 : WBUA_inside13, WBUA_roof05, WBUA_inside12
 END ROOMS
 
 CREATURES
 WBUA_lot02 : 4-PinkLizard
+WBUA_inside02 : 2-DropBug
 WBUA_roof02 : 3-PinkLizard
 WBUA_lot07 : 2-PeachLizard
 WBUA_lot07 : 3-PeachLizard
 WBUA_lot07 : 4-PeachLizard
-WBUA_lot07 : 5-PeachLizard
 WBUA_lot06 : 1-PinkLizard
 WBUA_lot06 : 2-BlueLizard
 WBUA_lot10 : 2-CicadaA
@@ -58,33 +58,33 @@ WBUA_lot10 : 3-PeachLizard
 WBUA_lot10 : 4-PeachLizard
 WBUA_lot10 : 5-PeachLizard
 WBUA_lot10 : 6-CicadaA-2
-WBUA_lot10 : 7-PeachLizard
 WBUA_lot01 : 2-BlueLizard
 WBUA_lot01 : 3-PinkLizard
 WBUA_lot03 : 3-WhiteLizard
 WBUA_lot03 : 4-BlueLizard
-OFFSCREEN : 0-Vulture-2
-WBUA_roof03 : 3-CyanLizard
-WBUA_roof03 : 4-BlueLizard
-WBUA_roof06 : 1-WhiteLizard
 WBUA_lot09 : 5-CyanLizard
 WBUA_lot09 : 6-BlueLizard
 WBUA_lot09 : 7-PinkLizard
+WBUA_inside09 : 4-DropBug
 WBUA_inside09 : 5-PoleMimic-{16}
+WBUA_inside08 : 3-BlueLizard
 WBUA_inside06 : 3-CicadaA
-WBUA_lot05 : 2-PinkLizard
+WBUA_lot05 : 2-DropBug
 WBUA_lot05 : 3-CicadaA-2
 WBUA_inside04 : 4-CyanLizard
-WBUA_roof04 : 3-PeachLizard
-WBUA_roof04 : 4-PeachLizard
-WBUA_roof04 : 6-PeachLizard
-WBUA_inside12 : 3-CicadaA
-WBUA_inside12 : 4-CicadaA
-WBUA_inside13 : 3-PinkLizard-{Mean:1}
-WBUA_inside13 : 4-WhiteLizard
-WBUA_vent01 : 3-WhiteLizard
 WBUA_roof01 : 2-WhiteLizard
 WBUA_roof01 : 3-BigNeedleWorm
 WBUA_roof01 : 4-SmallNeedleWorm-3
 WBUA_inside07 : 2-CicadaA
+WBUA_inside12 : 3-DropBug
+WBUA_inside12 : 4-CicadaA
+OFFSCREEN : 0-Vulture-2
+WBUA_inside13 : 3-PinkLizard-{Mean:1}
+WBUA_inside13 : 4-WhiteLizard
+WBUA_roof03 : 3-CyanLizard
+WBUA_roof03 : 4-BlueLizard
+WBUA_vent01 : 3-WhiteLizard
+WBUA_roof04 : 3-PeachLizard
+WBUA_roof04 : 4-PeachLizard
+WBUA_roof04 : 6-PeachLizard
 END CREATURES

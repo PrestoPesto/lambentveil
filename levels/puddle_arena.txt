@@ -1,0 +1,8 @@
+DenGroup - TOP - 2,3
+DenGroup - BOTTOM - 4,5
+
+Creature - PinkLizard - dens:BOTTOM - chance:0.7
+Creature - BlueLizard - dens:BOTTOM - chance:0.6
+Creature - WhiteLizard - dens:TOP - chance:0.7
+
+Creature - Dropwig - dens:TOP - chance:0.4 - amount:2-3
